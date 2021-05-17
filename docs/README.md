@@ -1,3 +1,3 @@
-# Headline
+# CoinRequest
 
 > An awesome project.
