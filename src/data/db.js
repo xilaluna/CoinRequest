@@ -1,6 +1,6 @@
 require("dotenv").config()
 
-import mongoose from "mongoose"
+const mongoose = require("mongoose")
 
 const url = process.env.MONGO_URI
 mongoose.Promise = global.Promise
